@@ -1,5 +1,8 @@
 _repo: Some-Common-Birds-in-Their-Relation-to-Agriculture_62675
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62675-h/images/cover.jpg
 creator:
   author:
     agent_name: Beal, F. E. L. (Foster Ellenborough Lascelles)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '36716'
     url: http://www.gutenberg.org/2009/agents/36716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62675#Some-Common-Birds-in-Their-Relation-to-Agriculture
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
